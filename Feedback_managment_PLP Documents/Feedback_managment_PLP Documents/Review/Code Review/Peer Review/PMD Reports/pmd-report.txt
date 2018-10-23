@@ -1,0 +1,866 @@
+src/com/capg/fms/bean/CourseDTO.java:17:	headerCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:23:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/CourseDTO.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:26:	fieldCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:29:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/CourseDTO.java:29:	fieldCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:31:	Document empty constructor
+src/com/capg/fms/bean/CourseDTO.java:31:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:35:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:39:	Parameter 'courseId' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:39:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:44:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:48:	Parameter 'courseName' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:53:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:57:	Parameter 'noOfDays' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:57:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:62:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/CourseDTO.java:66:	Parameter 'courseId' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:66:	Parameter 'courseName' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:66:	Parameter 'noOfDays' is not assigned and could be declared final
+src/com/capg/fms/bean/CourseDTO.java:66:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:12:	headerCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:16:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/EmployeeDTO.java:16:	fieldCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:18:	fieldCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:20:	fieldCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:22:	Document empty constructor
+src/com/capg/fms/bean/EmployeeDTO.java:22:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:25:	Parameter 'employeeId' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:25:	Parameter 'employeeName' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:25:	Parameter 'password' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:25:	Parameter 'role' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:25:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:32:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:36:	Parameter 'employeeId' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:36:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:40:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:44:	Parameter 'employeeName' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:44:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:49:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:53:	Parameter 'password' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:53:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:57:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:61:	Parameter 'role' is not assigned and could be declared final
+src/com/capg/fms/bean/EmployeeDTO.java:61:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/EmployeeDTO.java:66:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:10:	headerCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:14:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/FacultyDTO.java:14:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:16:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:18:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:21:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/bean/FacultyDTO.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:24:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:27:	Parameter 'skillSet' is not assigned and could be declared final
+src/com/capg/fms/bean/FacultyDTO.java:27:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:32:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:37:	Document empty constructor
+src/com/capg/fms/bean/FacultyDTO.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FacultyDTO.java:40:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/bean/FacultyDTO.java:40:	Parameter 'skillSet' is not assigned and could be declared final
+src/com/capg/fms/bean/FacultyDTO.java:40:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:12:	headerCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:17:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/FeedbackDTO.java:17:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:21:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:25:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:27:	Avoid variables with short names like tm
+src/com/capg/fms/bean/FeedbackDTO.java:27:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:29:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:31:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:33:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:35:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:37:	Avoid long parameter lists.
+src/com/capg/fms/bean/FeedbackDTO.java:37:	Avoid long parameter lists.
+src/com/capg/fms/bean/FeedbackDTO.java:37:	Parameter 'feedbackId' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:37:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:37:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Avoid variables with short names like tm
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Parameter 'clrfyDbts' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Parameter 'hndOut' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Parameter 'hwSwNtwrk' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Parameter 'prsComm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:38:	Parameter 'tm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:39:	Parameter 'comments' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:39:	Parameter 'suggestions' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:53:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:57:	Parameter 'feedbackId' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:57:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:61:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:65:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:65:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:69:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:73:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:73:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:77:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:81:	Parameter 'prsComm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:81:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:85:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:89:	Parameter 'clrfyDbts' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:89:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:93:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:97:	Avoid variables with short names like tm
+src/com/capg/fms/bean/FeedbackDTO.java:97:	Parameter 'tm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:97:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:101:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:105:	Parameter 'hndOut' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:105:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:109:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:113:	Parameter 'hwSwNtwrk' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:113:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:117:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:121:	Parameter 'comments' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:121:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:125:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:129:	Parameter 'suggestions' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackDTO.java:129:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:133:	Document empty constructor
+src/com/capg/fms/bean/FeedbackDTO.java:133:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackDTO.java:137:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:3:	headerCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:5:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:6:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:7:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:8:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:9:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:10:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:11:	fieldCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:12:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:15:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:15:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:18:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:21:	Parameter 'facultyName' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:24:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:27:	Parameter 'avgPrsComm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:27:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:30:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:33:	Parameter 'avgClrfyDbts' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:33:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:36:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:39:	Parameter 'avgTm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:39:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:42:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:45:	Parameter 'avgHndOut' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:45:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:51:	Parameter 'avgHwSwNtwrk' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:51:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:54:	Parameter 'facultyName' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:54:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:54:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:55:	Parameter 'avgClrfyDbts' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:55:	Parameter 'avgPrsComm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:55:	Parameter 'avgTm' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:56:	Parameter 'avgHndOut' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:56:	Parameter 'avgHwSwNtwrk' is not assigned and could be declared final
+src/com/capg/fms/bean/FeedbackReportDTO.java:67:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/FeedbackReportDTO.java:74:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:13:	headerCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:19:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/ParticipantDTO.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:21:	fieldCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:25:	Document empty constructor
+src/com/capg/fms/bean/ParticipantDTO.java:25:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:29:	Parameter 'enrollmentId' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:29:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:29:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:29:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:36:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:40:	Parameter 'enrollmentId' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:40:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:44:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:48:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:52:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:56:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/ParticipantDTO.java:56:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/ParticipantDTO.java:62:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:15:	headerCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:21:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/com/capg/fms/bean/TrainingProgramDTO.java:21:	fieldCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:25:	fieldCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:29:	fieldCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:32:	fieldCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:34:	Document empty constructor
+src/com/capg/fms/bean/TrainingProgramDTO.java:34:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:37:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:37:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:38:	Parameter 'endDate' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:38:	Parameter 'facultyCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:38:	Parameter 'startDate' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:50:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:50:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:54:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:58:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:58:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:62:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:66:	Parameter 'facultyCode' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:66:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:71:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:75:	Parameter 'startDate' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:75:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:79:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:83:	Parameter 'endDate' is not assigned and could be declared final
+src/com/capg/fms/bean/TrainingProgramDTO.java:83:	publicMethodCommentRequirement Required
+src/com/capg/fms/bean/TrainingProgramDTO.java:88:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:20:	Each class should declare at least one constructor
+src/com/capg/fms/controller/AdminController.java:20:	headerCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/controller/AdminController.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:26:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:26:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:27:	The String literal "faculty" appears 4 times in this file; the first occurrence is on line 27
+src/com/capg/fms/controller/AdminController.java:28:	The String literal "choice" appears 11 times in this file; the first occurrence is on line 28
+src/com/capg/fms/controller/AdminController.java:29:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/controller/AdminController.java:31:	The String literal "FacultySkillMaintenance" appears 4 times in this file; the first occurrence is on line 31
+src/com/capg/fms/controller/AdminController.java:35:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:35:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:36:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:38:	Local variable 'faculty' could be declared final
+src/com/capg/fms/controller/AdminController.java:39:	Avoid using equals() to compare against null
+src/com/capg/fms/controller/AdminController.java:39:	Avoid using if statements without curly braces
+src/com/capg/fms/controller/AdminController.java:39:	Avoid using if statements without curly braces
+src/com/capg/fms/controller/AdminController.java:39:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/AdminController.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/AdminController.java:46:	Parameter 'skills' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:47:	Parameter 'faculty' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:48:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:48:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:50:	Position literals first in String comparisons
+src/com/capg/fms/controller/AdminController.java:54:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/AdminController.java:58:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/controller/AdminController.java:64:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:64:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:66:	Local variable 'courseList' could be declared final
+src/com/capg/fms/controller/AdminController.java:67:	The String literal "courselist" appears 4 times in this file; the first occurrence is on line 67
+src/com/capg/fms/controller/AdminController.java:68:	The String literal "CourseMaintenance" appears 7 times in this file; the first occurrence is on line 68
+src/com/capg/fms/controller/AdminController.java:72:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:72:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:73:	The String literal "course" appears 5 times in this file; the first occurrence is on line 73
+src/com/capg/fms/controller/AdminController.java:79:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:80:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:81:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:81:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:82:	Local variable 'error' could be declared final
+src/com/capg/fms/controller/AdminController.java:87:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/AdminController.java:90:	Local variable 'courseId' could be declared final
+src/com/capg/fms/controller/AdminController.java:92:	Local variable 'courseList' could be declared final
+src/com/capg/fms/controller/AdminController.java:99:	Avoid variables with short names like id
+src/com/capg/fms/controller/AdminController.java:99:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:99:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:99:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:101:	Local variable 'course' could be declared final
+src/com/capg/fms/controller/AdminController.java:107:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:107:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:108:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:108:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:111:	Local variable 'courseList' could be declared final
+src/com/capg/fms/controller/AdminController.java:119:	Avoid variables with short names like id
+src/com/capg/fms/controller/AdminController.java:119:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:119:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/AdminController.java:119:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/AdminController.java:122:	Local variable 'courseList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:25:	Each class should declare at least one constructor
+src/com/capg/fms/controller/CoordinatorController.java:25:	headerCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/controller/CoordinatorController.java:28:	fieldCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/controller/CoordinatorController.java:30:	Use explicit scoping instead of the default package private level
+src/com/capg/fms/controller/CoordinatorController.java:30:	fieldCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:33:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:33:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:35:	The String literal "programList" appears 9 times in this file; the first occurrence is on line 35
+src/com/capg/fms/controller/CoordinatorController.java:36:	The String literal "viewProgram" appears 5 times in this file; the first occurrence is on line 36
+src/com/capg/fms/controller/CoordinatorController.java:37:	The String literal "CoordinatorPage" appears 14 times in this file; the first occurrence is on line 37
+src/com/capg/fms/controller/CoordinatorController.java:41:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:41:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:42:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:43:	Local variable 'trainingProgram' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:45:	The String literal "program" appears 8 times in this file; the first occurrence is on line 45
+src/com/capg/fms/controller/CoordinatorController.java:53:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:54:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:55:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:55:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:56:	Local variable 'startDate' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/CoordinatorController.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/CoordinatorController.java:61:	Local variable 'endDate' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:63:	Local variable 'updatedProgram' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:74:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:74:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:75:	Local variable 'courseCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:78:	The String literal "add" appears 4 times in this file; the first occurrence is on line 78
+src/com/capg/fms/controller/CoordinatorController.java:79:	The String literal "courseCodes" appears 4 times in this file; the first occurrence is on line 79
+src/com/capg/fms/controller/CoordinatorController.java:84:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:84:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:85:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:86:	Local variable 'program' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:88:	Local variable 'facultyCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/CoordinatorController.java:90:	Local variable 'courseCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:95:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/CoordinatorController.java:98:	Local variable 'courseCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:108:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:109:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:110:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:110:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:111:	Found 'DU'-anomaly for variable 'facultyCodes' (lines '111'-'147').
+src/com/capg/fms/controller/CoordinatorController.java:111:	Local variable 'facultyCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:115:	Useless parentheses.
+src/com/capg/fms/controller/CoordinatorController.java:115:	Useless parentheses.
+src/com/capg/fms/controller/CoordinatorController.java:121:	Useless parentheses.
+src/com/capg/fms/controller/CoordinatorController.java:121:	Useless parentheses.
+src/com/capg/fms/controller/CoordinatorController.java:127:	Local variable 'courseCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:132:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/CoordinatorController.java:134:	Local variable 'startDate' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:134:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/CoordinatorController.java:134:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/CoordinatorController.java:139:	Local variable 'endDate' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:141:	Local variable 'addedTrainingCode' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:150:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:150:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:151:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:160:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:160:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:163:	The String literal "enroll" appears 4 times in this file; the first occurrence is on line 163
+src/com/capg/fms/controller/CoordinatorController.java:168:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:168:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:169:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:170:	Local variable 'participant' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:174:	Local variable 'participantCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:175:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/CoordinatorController.java:183:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:184:	Parameter 'participant' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:185:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:185:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:191:	Local variable 'participantCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:196:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/CoordinatorController.java:198:	Local variable 'enrolled' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:202:	Local variable 'participantList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:209:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/CoordinatorController.java:212:	Local variable 'participantList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:222:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:223:	The String literal "FeedbackPage" appears 5 times in this file; the first occurrence is on line 223
+src/com/capg/fms/controller/CoordinatorController.java:227:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:227:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:230:	Local variable 'feedbacks' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:237:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:237:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:238:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:245:	Found 'UR'-anomaly for variable 'feedback' (lines '245'-'254').
+src/com/capg/fms/controller/CoordinatorController.java:245:	Found 'UR'-anomaly for variable 'tCode' (lines '245'-'254').
+src/com/capg/fms/controller/CoordinatorController.java:245:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:245:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:246:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:247:	Local variable 'tCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:248:	System.out.println is used
+src/com/capg/fms/controller/CoordinatorController.java:249:	Found 'DU'-anomaly for variable 'feedbacks' (lines '249'-'266').
+src/com/capg/fms/controller/CoordinatorController.java:249:	Local variable 'feedbacks' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:251:	Avoid excessively long variable names like feedbackFacultyList
+src/com/capg/fms/controller/CoordinatorController.java:251:	Local variable 'feedbackFacultyList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:252:	Local variable 'tCode' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:253:	Local variable 'feedback' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:260:	System.out.println is used
+src/com/capg/fms/controller/CoordinatorController.java:262:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:269:	Found 'UR'-anomaly for variable 'i' (lines '269'-'273').
+src/com/capg/fms/controller/CoordinatorController.java:269:	Found 'UR'-anomaly for variable 'j' (lines '269'-'277').
+src/com/capg/fms/controller/CoordinatorController.java:269:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:269:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/CoordinatorController.java:270:	Local variable 'participantList' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:271:	Local variable 'feedbackReport' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:272:	Local variable 'i' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:273:	Local variable 'trainingCodes' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:274:	Local variable 'j' could be declared final
+src/com/capg/fms/controller/CoordinatorController.java:275:	Avoid instantiating new objects inside loops
+src/com/capg/fms/controller/CoordinatorController.java:275:	Local variable 'feedback' could be declared final
+src/com/capg/fms/controller/FeedbackController.java:16:	Each class should declare at least one constructor
+src/com/capg/fms/controller/FeedbackController.java:16:	headerCommentRequirement Required
+src/com/capg/fms/controller/FeedbackController.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/controller/FeedbackController.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/controller/FeedbackController.java:22:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/FeedbackController.java:22:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/FeedbackController.java:28:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/FeedbackController.java:29:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/FeedbackController.java:29:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/FeedbackController.java:31:	Local variable 'hasErrors' could be declared final
+src/com/capg/fms/controller/FeedbackController.java:34:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/FeedbackController.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/FeedbackController.java:41:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/FeedbackController.java:42:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/FeedbackController.java:44:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/FeedbackController.java:47:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/controller/FeedbackController.java:48:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/FeedbackController.java:50:	Avoid catching NullPointerException; consider removing the cause of the NPE.
+src/com/capg/fms/controller/FeedbackController.java:50:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/capg/fms/controller/FeedbackController.java:52:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/ParticipantControlller.java:17:	Each class should declare at least one constructor
+src/com/capg/fms/controller/ParticipantControlller.java:17:	headerCommentRequirement Required
+src/com/capg/fms/controller/ParticipantControlller.java:20:	Avoid excessively long variable names like participantService
+src/com/capg/fms/controller/ParticipantControlller.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/controller/ParticipantControlller.java:20:	fieldCommentRequirement Required
+src/com/capg/fms/controller/ParticipantControlller.java:23:	Avoid variables with short names like id
+src/com/capg/fms/controller/ParticipantControlller.java:23:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:23:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:23:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/ParticipantControlller.java:26:	Local variable 'assignedCourses' could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/ParticipantControlller.java:27:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/com/capg/fms/controller/ParticipantControlller.java:29:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/ParticipantControlller.java:29:	The String literal "ParticipantPage" appears 5 times in this file; the first occurrence is on line 29
+src/com/capg/fms/controller/ParticipantControlller.java:33:	Local variable 'feedbackRequired' could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/ParticipantControlller.java:34:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/com/capg/fms/controller/ParticipantControlller.java:36:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/controller/ParticipantControlller.java:48:	Parameter 'bindingResult' is not assigned and could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:48:	Parameter 'feedback' is not assigned and could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:48:	Parameter 'model' is not assigned and could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/controller/ParticipantControlller.java:55:	Local variable 'assignedCourses' could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:58:	Local variable 'feedbackRequired' could be declared final
+src/com/capg/fms/controller/ParticipantControlller.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/controller/ParticipantControlller.java:59:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/com/capg/fms/controller/ParticipantControlller.java:61:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/dao/AdminDAOImpl.java:17:	Each class should declare at least one constructor
+src/com/capg/fms/dao/AdminDAOImpl.java:17:	headerCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/dao/AdminDAOImpl.java:20:	fieldCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:23:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:23:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:25:	Local variable 'faculty' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:26:	Consider simply returning the value vs storing it in local variable 'faculty'
+src/com/capg/fms/dao/AdminDAOImpl.java:30:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:30:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:39:	Found 'DD'-anomaly for variable 'facultyList' (lines '39'-'42').
+src/com/capg/fms/dao/AdminDAOImpl.java:40:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:41:	Local variable 'facultyQuery' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/AdminDAOImpl.java:47:	Parameter 'faculty' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:47:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:52:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:53:	Found 'DD'-anomaly for variable 'courseList' (lines '53'-'56').
+src/com/capg/fms/dao/AdminDAOImpl.java:54:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:55:	Local variable 'courseQuery' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/AdminDAOImpl.java:61:	Avoid variables with short names like id
+src/com/capg/fms/dao/AdminDAOImpl.java:61:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:61:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:62:	Local variable 'course' could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:63:	Consider simply returning the value vs storing it in local variable 'course'
+src/com/capg/fms/dao/AdminDAOImpl.java:67:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:67:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/AdminDAOImpl.java:73:	Avoid variables with short names like id
+src/com/capg/fms/dao/AdminDAOImpl.java:73:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/dao/AdminDAOImpl.java:73:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:23:	Each class should declare at least one constructor
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:23:	headerCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:26:	fieldCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:29:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:31:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:32:	Local variable 'programQuery' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:34:	Local variable 'programList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:34:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:35:	Consider simply returning the value vs storing it in local variable 'programList'
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:39:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:40:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:41:	Local variable 'courseQuery' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:43:	Local variable 'courseList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:43:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:49:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:50:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:51:	Local variable 'facultyQuery' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:53:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:53:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:54:	Consider simply returning the value vs storing it in local variable 'facultyList'
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:58:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:58:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:64:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:65:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:66:	Avoid excessively long variable names like updatedTrainingProgram
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:66:	Local variable 'updatedTrainingProgram' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:72:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:72:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:74:	Local variable 'trainingProgram' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:80:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:80:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:81:	Local variable 'program' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:87:	Parameter 'participant' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:87:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:93:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:94:	Local variable 'courseList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:94:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:100:	Found 'UR'-anomaly for variable 'faculty' (lines '100'-'107').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:100:	Found 'UR'-anomaly for variable 'skill' (lines '100'-'109').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:100:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:100:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:102:	Found 'DU'-anomaly for variable 'courseName' (lines '102'-'114').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:102:	Local variable 'courseName' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:102:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:104:	Local variable 'facultyList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:105:	Local variable 'facultyCodes' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:106:	Local variable 'faculty' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:107:	Local variable 'skills' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:107:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:108:	Local variable 'skill' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:109:	Avoid using if statements without curly braces
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:109:	Avoid using if statements without curly braces
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:117:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:118:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:119:	Local variable 'participantQuery' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:121:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:122:	Local variable 'participantCodes' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:122:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:123:	Consider simply returning the value vs storing it in local variable 'participantCodes'
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:127:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:129:	Local variable 'participantList' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:129:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:137:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:137:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:138:	Local variable 'course' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:139:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:144:	Found 'UR'-anomaly for variable 'i' (lines '144'-'154').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:144:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:146:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:147:	Avoid variables with short names like rs
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:147:	Local variable 'rs' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:148:	Local variable 'tCodes' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:148:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:150:	Local variable 'feedbacks' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:152:	Local variable 'i' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:153:	Avoid instantiating new objects inside loops
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:153:	Local variable 'feedbackReport' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:154:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:155:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:158:	Avoid instantiating new objects inside loops
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:158:	Found 'DD'-anomaly for variable 'averageFeedback' (lines '158'-'159').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:160:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:160:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:163:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:163:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:164:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:164:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:165:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:166:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:166:	Avoid empty catch blocks
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:166:	Avoid empty catch blocks
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:175:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:175:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:177:	Local variable 'flist' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:179:	Local variable 'query1' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:180:	Local variable 'query2' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:181:	Local variable 'query3' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:182:	Local variable 'query4' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:183:	Local variable 'query5' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:186:	Local variable 'avgPrsComm' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:188:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:189:	Local variable 'listAvgPrsComm' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:189:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:192:	Local variable 'avgClrfyDbts' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:194:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:195:	Local variable 'listAvgClrfyDbts' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:195:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:198:	Local variable 'avgTm' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:199:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:200:	Local variable 'listAvgTm' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:200:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:203:	Local variable 'avgHndOut' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:205:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:206:	Local variable 'listAvgHndOut' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:206:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:210:	Local variable 'avgHwSwNtwrk' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:212:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:213:	Local variable 'listAvgHwSwNtwrk' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:213:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:221:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:221:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:222:	Found 'DD'-anomaly for variable 'facultyName' (lines '222'-'235').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:223:	Found 'DD'-anomaly for variable 'facultyCode' (lines '223'-'229').
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:225:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:227:	Local variable 'fCode' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:228:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:229:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:231:	Local variable 'query1' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:233:	Local variable 'fName' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:234:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:235:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:240:	Parameter 'facultyID1' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:240:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:242:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:243:	Avoid variables with short names like rs
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:243:	Local variable 'rs' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:244:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:245:	Local variable 'tCodes' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:245:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:252:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:254:	Local variable 'role' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:255:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:256:	Avoid variables with short names like rs
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:256:	Local variable 'rs' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:258:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:259:	Local variable 'lfaculty' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:259:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:265:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:265:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:267:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:268:	Avoid variables with short names like rs
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:268:	Local variable 'rs' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:270:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:271:	Local variable 'feedback' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:271:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:272:	Consider simply returning the value vs storing it in local variable 'feedback'
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:276:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:276:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:278:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:279:	Avoid variables with short names like rs
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:279:	Local variable 'rs' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:280:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:281:	Local variable 'participantName' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:281:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:287:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:287:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:288:	Local variable 'result' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:289:	Local variable 'query2' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:291:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:292:	Local variable 'feedbackDone' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:292:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:293:	Avoid excessively long variable names like getAssignedCourses
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:293:	Local variable 'getAssignedCourses' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:294:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:298:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:298:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:300:	Local variable 'result' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:301:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:302:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:303:	Local variable 'courses' could be declared final
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:303:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/CoordinatorDAOImpl.java:304:	Consider simply returning the value vs storing it in local variable 'courses'
+src/com/capg/fms/dao/FMSDaoImpl.java:13:	Each class should declare at least one constructor
+src/com/capg/fms/dao/FMSDaoImpl.java:13:	headerCommentRequirement Required
+src/com/capg/fms/dao/FMSDaoImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/dao/FMSDaoImpl.java:16:	fieldCommentRequirement Required
+src/com/capg/fms/dao/FMSDaoImpl.java:19:	Parameter 'password' is not assigned and could be declared final
+src/com/capg/fms/dao/FMSDaoImpl.java:19:	Parameter 'userId' is not assigned and could be declared final
+src/com/capg/fms/dao/FMSDaoImpl.java:19:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/FMSDaoImpl.java:24:	Avoid using if statements without curly braces
+src/com/capg/fms/dao/FMSDaoImpl.java:24:	Avoid using if statements without curly braces
+src/com/capg/fms/dao/FMSDaoImpl.java:24:	Potential violation of Law of Demeter (method chain calls)
+src/com/capg/fms/dao/FMSDaoImpl.java:24:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/FMSDaoImpl.java:25:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/dao/FMSDaoImpl.java:26:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/capg/fms/dao/FMSDaoImpl.java:26:	Avoid empty catch blocks
+src/com/capg/fms/dao/FMSDaoImpl.java:26:	Avoid empty catch blocks
+src/com/capg/fms/dao/IAdminDAO.java:8:	headerCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:10:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:12:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:14:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:16:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:18:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:20:	Avoid variables with short names like id
+src/com/capg/fms/dao/IAdminDAO.java:20:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:22:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IAdminDAO.java:24:	Avoid variables with short names like id
+src/com/capg/fms/dao/IAdminDAO.java:24:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:13:	headerCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:15:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:17:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:19:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:23:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:25:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:27:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:29:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:31:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:33:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:35:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:39:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:42:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:44:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:50:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:52:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:54:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ICoordinatorDAO.java:56:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IFMSDao.java:5:	headerCommentRequirement Required
+src/com/capg/fms/dao/IFMSDao.java:7:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IParticipantDAO.java:7:	headerCommentRequirement Required
+src/com/capg/fms/dao/IParticipantDAO.java:9:	Avoid variables with short names like id
+src/com/capg/fms/dao/IParticipantDAO.java:9:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IParticipantDAO.java:11:	Avoid variables with short names like id
+src/com/capg/fms/dao/IParticipantDAO.java:11:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/IParticipantDAO.java:13:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ParticipantDAOImpl.java:15:	Each class should declare at least one constructor
+src/com/capg/fms/dao/ParticipantDAOImpl.java:15:	headerCommentRequirement Required
+src/com/capg/fms/dao/ParticipantDAOImpl.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/dao/ParticipantDAOImpl.java:18:	fieldCommentRequirement Required
+src/com/capg/fms/dao/ParticipantDAOImpl.java:21:	Avoid variables with short names like id
+src/com/capg/fms/dao/ParticipantDAOImpl.java:21:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ParticipantDAOImpl.java:23:	Local variable 'result' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:24:	Local variable 'query' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:25:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/ParticipantDAOImpl.java:26:	Local variable 'courses' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:26:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/ParticipantDAOImpl.java:27:	Consider simply returning the value vs storing it in local variable 'courses'
+src/com/capg/fms/dao/ParticipantDAOImpl.java:32:	Avoid variables with short names like id
+src/com/capg/fms/dao/ParticipantDAOImpl.java:32:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:32:	publicMethodCommentRequirement Required
+src/com/capg/fms/dao/ParticipantDAOImpl.java:34:	Local variable 'result' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:35:	Local variable 'query2' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:37:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/ParticipantDAOImpl.java:38:	Local variable 'feedbackDone' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:38:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/ParticipantDAOImpl.java:39:	Avoid excessively long variable names like getAssignedCourses
+src/com/capg/fms/dao/ParticipantDAOImpl.java:39:	Local variable 'getAssignedCourses' could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:40:	Potential violation of Law of Demeter (object not created locally)
+src/com/capg/fms/dao/ParticipantDAOImpl.java:46:	Parameter 'feedback' is not assigned and could be declared final
+src/com/capg/fms/dao/ParticipantDAOImpl.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:16:	Each class should declare at least one constructor
+src/com/capg/fms/service/AdminServiceImpl.java:16:	headerCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/service/AdminServiceImpl.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:22:	Parameter 'facultyId' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:22:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:28:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:28:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:34:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:40:	Parameter 'faculty' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:40:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:52:	Avoid variables with short names like id
+src/com/capg/fms/service/AdminServiceImpl.java:52:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:52:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:58:	Parameter 'course' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:58:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/AdminServiceImpl.java:64:	Avoid variables with short names like id
+src/com/capg/fms/service/AdminServiceImpl.java:64:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/service/AdminServiceImpl.java:64:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:20:	Each class should declare at least one constructor
+src/com/capg/fms/service/CoordinatorServiceImpl.java:20:	headerCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/service/CoordinatorServiceImpl.java:23:	fieldCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:26:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:31:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:36:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:41:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:41:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:46:	Parameter 'trainingProgram' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:51:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:51:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:56:	Parameter 'trainingCode' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:56:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:61:	Parameter 'participant' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:61:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:66:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:71:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:71:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:76:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:81:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:86:	Found 'UR'-anomaly for variable 'participant' (lines '86'-'89').
+src/com/capg/fms/service/CoordinatorServiceImpl.java:86:	Parameter 'participantDTO' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:86:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:87:	Local variable 'participantList' could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:88:	Local variable 'participant' could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:89:	Useless parentheses.
+src/com/capg/fms/service/CoordinatorServiceImpl.java:89:	Useless parentheses.
+src/com/capg/fms/service/CoordinatorServiceImpl.java:90:	Useless parentheses.
+src/com/capg/fms/service/CoordinatorServiceImpl.java:90:	Useless parentheses.
+src/com/capg/fms/service/CoordinatorServiceImpl.java:91:	A method should have only one exit point, and that should be the last statement in the method
+src/com/capg/fms/service/CoordinatorServiceImpl.java:98:	Parameter 'courseCode' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:98:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:103:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:108:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:108:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:113:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:113:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:118:	Parameter 'facultyID1' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:118:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:123:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:128:	Parameter 'index' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:128:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:133:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:133:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/CoordinatorServiceImpl.java:138:	Parameter 'participantId' is not assigned and could be declared final
+src/com/capg/fms/service/CoordinatorServiceImpl.java:138:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/FMSServiceImpl.java:13:	Each class should declare at least one constructor
+src/com/capg/fms/service/FMSServiceImpl.java:13:	headerCommentRequirement Required
+src/com/capg/fms/service/FMSServiceImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/service/FMSServiceImpl.java:16:	fieldCommentRequirement Required
+src/com/capg/fms/service/FMSServiceImpl.java:19:	Parameter 'password' is not assigned and could be declared final
+src/com/capg/fms/service/FMSServiceImpl.java:19:	Parameter 'userId' is not assigned and could be declared final
+src/com/capg/fms/service/FMSServiceImpl.java:19:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:9:	headerCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:11:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:13:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:15:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:17:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:19:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:21:	Avoid variables with short names like id
+src/com/capg/fms/service/IAdminService.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:23:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IAdminService.java:25:	Avoid variables with short names like id
+src/com/capg/fms/service/IAdminService.java:25:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:13:	headerCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:15:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:17:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:19:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:23:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:25:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:27:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:29:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:31:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:33:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:35:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:37:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:39:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:41:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:44:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:46:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:48:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:50:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:52:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:54:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:56:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ICoordinatorService.java:58:	Avoid variables with short names like i
+src/com/capg/fms/service/ICoordinatorService.java:58:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IFMSService.java:5:	headerCommentRequirement Required
+src/com/capg/fms/service/IFMSService.java:7:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IParticipantService.java:7:	headerCommentRequirement Required
+src/com/capg/fms/service/IParticipantService.java:9:	Avoid variables with short names like id
+src/com/capg/fms/service/IParticipantService.java:9:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IParticipantService.java:11:	Avoid variables with short names like id
+src/com/capg/fms/service/IParticipantService.java:11:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/IParticipantService.java:13:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ParticipantServiceImpl.java:16:	Each class should declare at least one constructor
+src/com/capg/fms/service/ParticipantServiceImpl.java:16:	headerCommentRequirement Required
+src/com/capg/fms/service/ParticipantServiceImpl.java:18:	Use explicit scoping instead of the default package private level
+src/com/capg/fms/service/ParticipantServiceImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/capg/fms/service/ParticipantServiceImpl.java:19:	fieldCommentRequirement Required
+src/com/capg/fms/service/ParticipantServiceImpl.java:21:	Avoid variables with short names like id
+src/com/capg/fms/service/ParticipantServiceImpl.java:21:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/service/ParticipantServiceImpl.java:21:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ParticipantServiceImpl.java:27:	Avoid variables with short names like id
+src/com/capg/fms/service/ParticipantServiceImpl.java:27:	Parameter 'id' is not assigned and could be declared final
+src/com/capg/fms/service/ParticipantServiceImpl.java:27:	publicMethodCommentRequirement Required
+src/com/capg/fms/service/ParticipantServiceImpl.java:32:	Parameter 'feedback' is not assigned and could be declared final
+src/com/capg/fms/service/ParticipantServiceImpl.java:32:	publicMethodCommentRequirement Required

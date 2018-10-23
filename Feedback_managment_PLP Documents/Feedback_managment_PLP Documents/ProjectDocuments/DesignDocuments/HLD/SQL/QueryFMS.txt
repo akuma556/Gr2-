@@ -1,0 +1,86 @@
+  
+
+    /*************************************** PARTICIPANT QUERIES **********************************************/
+
+1) Write a query to fetch enrolled courses
+A) public static final String FETCH_ENROLLED_COURSES = "Select training_code from participant_enrollment where participant_id=?";
+
+2) Write a query to check feedback insertion
+A) public static final String INSERT_FEEDBACK = "insert into feedback_master values(?,?,?,?,?,?,?,?,?)";
+
+3) Write a query to fetch feedback required courses
+A) public static final String FETCH_FEEDBACK_REQUIRED_COURSES = "select training_code from participant_enrollment where participant_id=? AND training_code not in (select training_code from feedback_master where participant_id=?)";
+
+
+     /************************************** ADMIN QUERIES  ****************************************************/
+
+4) Write a query to check role of admin
+A) public static final String LOGIN_QUERY = "SELECT e.Role from EMPLOYEE_MASTER e where" + " e.EMPLOYEE_ID = ? AND e.PASSWORD = ?";
+
+5) Write a query to check faculty details
+A) public static final String FACULTY_DETAILS_QUERY = "SELECT f.skill_set FROM FACULTY_SKILL f WHERE" + " f.FACULTY_ID=?";
+
+6) Write a query to update faculty skills
+A) public static final String UPDATE_FACULTY_SKILLS = "UPDATE FACULTY_SKILL " + "SET SKILL_SET= ? WHERE FACULTY_ID=?";
+
+7) Write a query to add course
+A) public static final String ADD_COURSE = "INSERT INTO COURSE_MASTER VALUES(?,?,?)";
+
+8) Write a query to delete course
+A) public static final String DELETE_COURSE = "DELETE FROM COURSE_MASTER WHERE COURSE_ID =?";
+
+9) Write a query to view course
+A) public static final String VIEW_COURSE = "SELECT c.COURSE_ID, c.COURSE_NAME, c.NO_OF_DAYS FROM COURSE_MASTER c WHERE c.COURSE_ID = ?";
+
+10) Write a query to update course
+A)  public static final String UPDATE_COURSE = "UPDATE COURSE_MASTER SET NO_OF_DAYS = ? " + "WHERE COURSE_ID =?";
+
+     /************************************** COORDINATOR QUERIES  ****************************************************/
+
+11) Write a query to insert program
+A)  public static final String INSERT_PROGRAM = "Insert into TRAINING_PROGRAM values (TrainingCode_seq.NEXTVAL,?,?,?,?)";
+
+12) Write a query to view all training programs
+A)  public static final String VIEW_ALL_TRAINING_PROGRAMS = "select * from Training_Program order by 1";
+
+13) Write a query to view all faculty 
+A)  public static final String VIEW_ALL_FACULTY = "SELECT * from FACULTY_SKILL ORDER BY 1 ";
+
+14) Write a query to view all participants
+A)  public static final String VIEW_ALL_PARTICIPANT = "SELECT * from EMPLOYEE_MASTER e where" + " e.role=?";
+
+15) Write a query to view all courses
+A)  public static final String VIEW_ALL_COURSES = "SELECT * from Course_Master";
+
+16) Write a query to delete program
+A)  public static final String DELETE_PROGRAM = " Delete from TRAINING_PROGRAM where TRAINING_CODE=?";
+
+17) Write a query to get program
+A)  public static final String GET_PROGRAM = " Select * from TRAINING_PROGRAM where TRAINING_CODE=?";
+
+18) Write a query to validate login
+A)  public static final String Valid_QUERY = "SELECT e.Role from EMPLOYEE_MASTER e where" + " e.EMPLOYEE_ID = ?";
+
+19) Write a query to update program
+A)  public static final String UPDATE_PROGRAM = "UPDATE TRAINING_PROGRAM set Faculty_code=?, Start_date=? , End_date=? " + "where Training_code=?";
+
+20) Write a query to validate training code
+A)  public static final String Valid_TrainingCode_Query = "Select t.training_code from TRAINING_PROGRAM t" + " where TRAINING_CODE=?";
+
+21) Write a query to insert into participant enrollment
+A)  public static final String INSERT_INTO_PARTICIPANT_ENROLLMENT = "Insert into PARTICIPANT_ENROLLMENT" + " values(?,?)";
+
+22) Write a query to check existing participant
+A)  public static final String EXISTING_PARTICIPANT = "Select * from PARTICIPANT_ENROLLMENT";
+
+23) Write a query to check course name by id
+A)  public static final String GET_COURSE_NAME_BY_ID = "SELECT course_name from course_master where course_id=?";
+
+24) Write a query to check feedback by participant
+A)  public static final String FEEDBACK_BY_PARTICI = "SELECT * FROM FEEDBACK_MASTER where PARTICIPANT_ID =?";
+
+25) Write a query to validate PID
+A)  public static final String VALIDATE_PID = "SELECT ROLE,EMPLOYEE_NAME FROM EMPLOYEE_MASTER  where EMPLOYEE_ID=?";
+
+26) Write a query to validate FID
+A)  public static final String VALIDATE_FID = "SELECT ROLE,EMPLOYEE_NAME FROM EMPLOYEE_MASTER  where EMPLOYEE_ID=?";
